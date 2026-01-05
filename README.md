@@ -5,8 +5,7 @@
 The Student Centric Helpdesk Assistant is an AI-driven system designed to streamline and enhance the process of addressing student queries within educational institutions. Traditional helpdesk systems often involve delays, manual interventions, and inefficient communication, which can hinder the overall student experience. This project integrates advanced natural language processing (NLP) and deep learning techniques to understand, classify, and respond to student queries in real-time.
 
 ## Introduction
-
-      Students often face delays when trying to get information about academics, events, or facilities in their college. Traditional helpdesks are slow and require manual help from staff.
+Students often face delays when trying to get information about academics, events, or facilities in their college. Traditional helpdesks are slow and require manual help from staff.
 The Student Centric Helpdesk Assistant is an AI-based system that can understand student questions and give quick, accurate answers. It helps students get the information they need faster and makes the support process easier and more efficient.
 
 ## Features
@@ -70,7 +69,7 @@ Multilingual Support: Handle queries in multiple languages for diverse students.
 Mobile Application: Develop a mobile app version for on-the-go assistance.
 
 ## Conclusion
-      The Student Centric Helpdesk Assistant helps students get quick and accurate answers to their questions. It reduces manual work for staff and makes the support system faster and easier to use. This project shows how AI can improve student services and can be expanded with new features in the future.
+ The Student Centric Helpdesk Assistant helps students get quick and accurate answers to their questions. It reduces manual work for staff and makes the support system faster and easier to use. This project shows how AI can improve student services and can be expanded with new features in the future.
       
 ## Articles published / References
 
